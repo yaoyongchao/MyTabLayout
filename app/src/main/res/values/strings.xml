@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyTabLayout</string>
+    <string name="weixin">微信</string>
+    <string name="contacts">通讯录</string>
+    <string name="find">发现</string>
+    <string name="me">我</string>
+</resources>

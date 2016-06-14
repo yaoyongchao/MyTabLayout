@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- TabLayout -->
+    <color name="white">#FFFFFF</color>
+    <color name="tab_indicator">#d6d6d6</color>
+    <color name="tab_tv_normal">#999999</color>
+    <color name="tab_tv_selected">#45c01a</color>
+    <color name="tab_bg">#fcfcfc</color>
+    <color name="tab_div">#d6d6d6</color>
+
+</resources>

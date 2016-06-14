@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="CustomTab" parent="Widget.Design.TabLayout" >
+        <item name="tabIndicatorColor">@color/tab_indicator</item>
+        <item name="tabTextColor">@color/tab_tv_normal</item>
+        <item name="tabSelectedTextColor">@color/tab_tv_selected</item>
+        <item name="tabBackground">@drawable/bg_tab_border_selecter</item>
+        <item name="tabIndicatorHeight">0dp</item>
+    </style>
+    <!--
+    1.tabIndicatorColor：TabLayout指示器的颜色
+    2.tabTextColor: tab默认字体的颜色
+    3.tabSelectedTextColor：当前选择的tab的字体颜色
+    4.tabBackground：背景
+    5.tabIndicatorHeight：TabLayout指示器高度
+    -->
+
+
+</resources>
